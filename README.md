@@ -49,11 +49,23 @@ Here are some ideas to get you started:
 - CNU SW ACADEMY 1기 수료
 - CNU SW ACADEMY 프로젝트 경진대회 금상(카.공 프로젝트) / 동상(3-Tier 구축 프로젝트) 수상
 
-![image](https://user-images.githubusercontent.com/108641325/200563415-8c4f48ff-123a-4439-aef0-14122520673a.png)
+<div align="center">
 
-![image](https://user-images.githubusercontent.com/108641325/200563742-55c4df2c-2360-483e-93bf-0f151176c7a5.png)
+ <img src ="https://user-images.githubusercontent.com/108641325/200563415-8c4f48ff-123a-4439-aef0-14122520673a.png" width="400" height="600">
 
-![KakaoTalk_20221102_163342947](https://user-images.githubusercontent.com/108641325/200563604-b2ff6c59-2b42-44db-98ff-92d88b78231e.jpg)
+ </div>
+ 
+<div align="center">
+ 
+ <img src="https://user-images.githubusercontent.com/108641325/200563742-55c4df2c-2360-483e-93bf-0f151176c7a5.png" width="600" height="400">
 
+</div> 
+
+<div align="center">
+
+ <img src="https://user-images.githubusercontent.com/108641325/200563604-b2ff6c59-2b42-44db-98ff-92d88b78231e.jpg" width="400" height="600">
+
+</div>
+ 
 ## 벨로그 주소
 https://velog.io/@jjh98
